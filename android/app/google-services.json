@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352343220305",
+    "project_id": "soul-nourisher-f3085",
+    "storage_bucket": "soul-nourisher-f3085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352343220305:android:77e71c8ce65bdd63f9d870",
+        "android_client_info": {
+          "package_name": "com.example.project2login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352343220305-vbnqi931l5ngig532hrgdrhgbfllippu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVd85FwMJaLbF_qZJHcFrqWUBl5aUxWcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352343220305-vbnqi931l5ngig532hrgdrhgbfllippu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
